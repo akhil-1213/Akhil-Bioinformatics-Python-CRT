@@ -1,0 +1,21 @@
+Built-in Functions of List in Python
+-> len()
+-> max()
+-> min()
+-> sum()
+-> all()
+-> list()
+-> sorted()
+-> any()
+---------------------------------------------------------------------------
+Built-in methods in Python:
+-> append()
+-> clear()
+-> insert()
+-> index()
+-> sort()
+-> extend()
+
+
+#WAPP to reverse a list of numbers without using reverse() method 
+#WAPP to sort the list of numbers without using sort() method

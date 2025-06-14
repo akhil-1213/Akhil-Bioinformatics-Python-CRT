@@ -1,0 +1,12 @@
+Strings are immutable
+Operations - Basic=Replacement,Concatenation
+             Membership=in,not in
+             Comaparison=>,<,~,...etc
+
+Important - Number System, Strings, Pattern, DSA
+
+#WAPP to read string as input from the user
+#a - print the string as a list of characters
+#2 - find the length of the string 
+#3 - find the minimum element after converting string into list
+#4 - find the number of spaces present in the string without using any built in functions or methods

@@ -1,0 +1,6 @@
+() - mean memory allocation
+Types of Functions - User Defined Functions
+                   - Built in Functions
+                   - Lambda Functions
+                   - Recursion Functions
+

@@ -1,0 +1,19 @@
+Set is created using set()
+Set is unordered i.e., elements in the set are randomly shuffled and do not have a indexes
+Operations on set:
+-> add() - adds value to set
+-> update() - adds a set to another Set
+-> remove() - removes value from the Set
+-> discard() - removes value from the set but doesn't raise error if value not present
+-> clear() - deletes an entire set
+-> union() - '|' - gives unique elements out of two given sets
+-> intersection() - '&' - gives common elements out of two given sets
+-> Differenece() - '-' - gives elements that are unique in first set but not in second set
+-> Symmetric Differenece() - '^' - gives unique elements from either set but not both
+
+**Methods**
+-> .union()
+-> .Differenece()
+-> .intersection()
+-> .issubset()
+-> .issuperset()

@@ -1,0 +1,6 @@
+Tuple is immutable in nature unlike List which is mutable
+Python follows PEMDAS rule
+All Built-in methods and Functions of List are applicable for Tuple as well #apart from mutable nature
+Tuple packing --> Creation of tuple without using Paranthesis
+Tuple unpacking --> Assingning the values of Tuple into induvidual variables
+any() and all() Functions are not applicable for Tuple

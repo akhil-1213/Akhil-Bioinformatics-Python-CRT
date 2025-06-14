@@ -1,0 +1,13 @@
+Dictionary are enclosed in {a:b,.....}
+They are mutable and can be overwritten just like List 
+***Built-in***
+-> pop()
+-> del (dict_value)
+-> len()
+-> keys() - returns all keys
+-> values() - returns all values of Dictionary
+-> items() - returns all key-value pairs in the Dictionary as tuples
+-> copy() - used to store the Dictionary to another variable 
+-> update() - adds one Dictionary to another Dictionary
+-> setdefault() - sets default item into Dictionary or prints if already present
+-> fromkeys() - creates a Dictionary out of provided keys and values
