@@ -1,0 +1,11 @@
+**Functions**
+Actual and Formal Arguments
+-> Formal arguments are defining arguments 
+-> Actual arguments are to be passed from main function
+
+**Types of Actual Arguments**
+-> Positional Arguments
+-> Keyword Arguments
+-> Default Arguments
+-> Variable length Arguments
+-> Keyword Variable Length Arguments
